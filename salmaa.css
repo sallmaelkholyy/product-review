@@ -1,0 +1,144 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: bisque;
+    text-decoration-color: #2b2a2a;
+}
+
+header {
+    background-color: #485e2c;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+#zs{
+color: #2b2a2a;
+text-align: right;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: large;
+
+}
+#sz {
+    margin: 20px;
+    padding: 10px;
+    width: 60% ;
+    max-width: 400px;
+    font-size: 18px ;
+    text-align: center;
+    right :50% ; 
+    position: absolute ;
+    right :30% ;
+
+
+}
+
+#zd {
+    font-size: 24px;
+    color: #485e2c;
+    text-align: center;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="button"] {
+    margin: 5px 0;
+    padding: 5px;
+}
+#search{
+text-align: center;
+position: relative;
+
+}
+#hh{
+
+ color: #485e2c;   
+}
+
+.product-review {
+    padding: 20px;
+    text-align: center;
+color: beige;
+background-color: #3f2435;
+}
+.conn{
+    color: beige;
+}
+.about{
+    color: beige;
+}
+ 
+.review {
+    border: 1px solid #3f2435;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #485e2c;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: #daddac;
+
+}
+.nav{
+text-align: right;
+margin-top: 20px;
+font-weight: bold;
+
+}
+.nav a{
+padding: 10px 20px;
+margin: 0 10px;
+text-decoration: beige;
+color: beige;
+background-color: #3f2435;
+border-radius: 5px;
+
+}
+ 
+
+.navi{
+    text-align: left;
+    margin-top: 20px;
+    font-weight: bold;
+    
+    }
+    .navi a{
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: beige;
+    color: beige;
+    background-color: #103319;
+    border-radius: 5px;
+    }
+
+
+footer {
+    background-color: #3f2435;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+img {
+
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+
+.review-section {
+    max-width: 800px;
+    margin: 0 auto;
+}
